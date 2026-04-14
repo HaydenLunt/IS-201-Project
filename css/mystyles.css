@@ -1,0 +1,61 @@
+body{
+    background-color: lightblue;
+}
+.header{
+    background-color: rgb(227, 245, 251);
+    color:aliceblue;
+    height: 100px;
+    line-height: 100px;
+}
+.ingredients{
+    background-color: lightcyan;
+    color: black;
+    height: auto;
+    line-height: auto;
+}
+
+img{
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video{
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.common{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cool{
+    text-align: center;
+    font-family: 'Sans-Serif', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+.difficult{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: normal;
+}
+
+.vid{
+    font-size: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cadetblue;
+}
+
+.footer{
+    background-color: rgba(189, 189, 255, 0.949);
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
